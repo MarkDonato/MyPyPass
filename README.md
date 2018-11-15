@@ -19,15 +19,13 @@ Only module that doesn't come stock with python (I believe) is `pyperclip`. `Pyp
 * Linux - No limit
 
 ## Future Ideas
-* Ability to feed it a list of users and have it shoot out a .csv with each username and a distinct random password.
-> Maybe have it create a batch script and a shell script as well that could make administration super easy
+* Ability to feed it a list of users and have it shoot out a .csv with each username and a distinct random password. (Maybe have it create a batch script and a shell script as well that could make administration super easy)
 
 * Basic installer script files
 
 * Build out a simple API/website
 
-* Password evaluator
-> fun to do but has already been done to death....
+* Password evaluator (fun to do but has already been done to death....)
 
 * GUI version/compiled version/Mobile version
 
